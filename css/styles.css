@@ -93,7 +93,7 @@ p {
 
 /* section Title */
 
-.Title {
+.title {
   background-color: #2e2f42;
 }
 
@@ -105,7 +105,7 @@ p {
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #fcfcfc;
+  color: #ffffff;
 }
 
 .title-button {
@@ -115,7 +115,7 @@ p {
   /* line-height: 24px; */
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: #fcfcfc;
+  color: #ffffff;
   background-color: #4d5ae5;
 }
 
