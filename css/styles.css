@@ -1,0 +1,19 @@
+body {
+  color: black;
+  background-color: #fff;
+  font-family: "Roboto", sans-serif;
+}
+
+.header {
+}
+
+.hero {
+}
+
+.nai .list {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+}
