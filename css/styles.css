@@ -130,11 +130,22 @@ body {
 
 /* section Our Team */
 
-.OurTeam {
+.our-team {
   background-color: #f4f4fd;
 }
 
-.list-point {
+.our-team .list .list-point {
   background-color: #ffffff;
 }
 /* section Our Portfolio */
+
+/* footer */
+
+.footer {
+  background-color: #2e2f42;
+}
+
+.footer .text,
+.footer .logo-part {
+  color: #f4f4fd;
+}
