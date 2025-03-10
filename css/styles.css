@@ -38,16 +38,6 @@ body {
   text-transform: capitalize;
 }
 
-.subsection-title {
-  font-weight: 500;
-  font-size: 20px;
-
-  /* line-height: 24px; */
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
 /* header  */
 
 .logo {
@@ -128,6 +118,15 @@ body {
 
 /* section Benefits */
 
+.subsection-title {
+  font-weight: 500;
+  font-size: 20px;
+
+  /* line-height: 24px; */
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
 /* section Our Team */
 
 .our-team {
@@ -136,6 +135,17 @@ body {
 
 .our-team .list .list-point {
   background-color: #ffffff;
+}
+
+.our-team .list .subsection-title {
+  font-weight: 500;
+  font-size: 20px;
+
+  /* line-height: 24px; */
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
 }
 /* section Our Portfolio */
 
