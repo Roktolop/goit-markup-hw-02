@@ -26,14 +26,25 @@ p {
   color: #434455;
 }
 
-.subsection-title {
+.title {
+  font-weight: 700;
+  font-size: 56px;
+
+  /* line-height: 60px; */
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fcfcfc;
+}
+
+.title-button {
   font-weight: 500;
-  font-size: 20px;
+  font-size: 16px;
 
   /* line-height: 24px; */
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fcfcfc;
 }
 
 .section-title {
@@ -44,6 +55,16 @@ p {
   line-height: 1.11111;
   letter-spacing: 0.02em;
   text-align: center;
+  color: #2e2f42;
+}
+
+.subsection-title {
+  font-weight: 500;
+  font-size: 20px;
+
+  /* line-height: 24px; */
+  line-height: 1.2;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
