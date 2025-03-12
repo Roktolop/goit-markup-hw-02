@@ -84,11 +84,11 @@ body {
 
 /* section Title */
 
-.title {
+.hero {
   background-color: #2e2f42;
 }
 
-.main-title {
+.title {
   font-weight: 700;
   font-size: 56px;
 
@@ -133,7 +133,7 @@ body {
   background-color: #f4f4fd;
 }
 
-.our-team .list .list-point {
+.our-team .list .list-item {
   background-color: #ffffff;
 }
 
